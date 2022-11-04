@@ -15,5 +15,7 @@ public class IndexModel : PageModel
     public void OnGet()
     {
         var secret = 123;
+
+        fo
     }
 }
